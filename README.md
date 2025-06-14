@@ -4,4 +4,4 @@ installations
 
 and
 
-!pip install user-agents
+!pip install fake_useragent
